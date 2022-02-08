@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="sign_desc">Sign in to your Settl account and enjoy the endless possibilities.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="for_pass">Forgot Password ?</string>
+    <string name="cre_acc">Create Account</string>
+    <string name="dont_acc">Don’t have a Settl account ?</string>
+</resources>

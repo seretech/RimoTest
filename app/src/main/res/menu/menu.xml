@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:icon="@drawable/home_selector"
+        android:id="@+id/id_home"
+        android:title="@string/home"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:icon="@drawable/selector_w"
+        android:id="@+id/id_browse"
+        android:title="@string/wallet"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:icon="@drawable/ic_swipe"
+        android:id="@+id/id_swipe"
+        android:title=""
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:icon="@drawable/selector_c"
+        android:id="@+id/id_settings"
+        android:title="@string/setti_card"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:icon="@drawable/selector_m"
+        android:id="@+id/id_more"
+        android:title="@string/more"
+        app:showAsAction="ifRoom" />
+</menu>

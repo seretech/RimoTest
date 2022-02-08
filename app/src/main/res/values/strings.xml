@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Rimo Interview</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="sign_desc">Sign in to your Settl account and enjoy the endless possibilities.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="for_pass">Forgot Password ?</string>
+    <string name="cre_acc">Create an account</string>
+    <string name="dont_acc">Don’t have a Settl account ?</string>
+    <string name="def_no">+234</string>
+    <string name="home">Home</string>
+    <string name="wallet">Wallet</string>
+    <string name="more">More</string>
+    <string name="setti_card">Setti Card</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="yes_exit">Yes Exit</string>
+    <string name="no">No</string>
+    <string name="sure_to_exit">Sure To Exit</string>
+</resources>
